@@ -170,10 +170,6 @@ Feel free to fork this project and submit pull requests for improvements. Some a
 - Performance optimizations
 - Additional accessibility features
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🙏 Acknowledgments
 
 - **Font Awesome** for the beautiful icons
